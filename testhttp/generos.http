@@ -1,0 +1,5 @@
+@url = https://effective-space-garbanzo-7vpg9jpjxrxj2pvq7-3000.app.github.dev
+
+GET{{url}}/api/v1/generos
+
+
